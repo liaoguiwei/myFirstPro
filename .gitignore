@@ -1,4 +1,15 @@
+.project
 *.class
-/class/*
-README.md
+*.log
+.facotrypath
+.idea/**
+.metadata/**
+.svn/**
+target/**
+bin/**
+temp/**
+log/**
+settings/**
 *.iml
+.classpath
+.settings/
